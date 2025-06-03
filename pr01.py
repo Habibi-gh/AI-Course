@@ -1,4 +1,4 @@
-year='omlet'
+year='Sal'
 if year=='shamsi':
     print('1398')
 elif year=='miladi':
